@@ -1,9 +1,12 @@
 # Login-Registered-React-and-Next
 Sistema de login e registro com React e Next 13
 
-## Projeto desenvolvido com aspectos visuais utilizando as frameworks Reack e Next.
+## Projeto desenvolvendo área de login e regigistro utilizando tailwind, Reack e Next. :attention::attention:
+
 
 ### Codigo Login:
+
+No codigo abaixo vemos a funcionalidade o typescript em tsx um forma de utilizar as tags do html e css.
 
 ```typescript
 
@@ -39,3 +42,6 @@ Sistema de login e registro com React e Next 13
                 </div>
             )}
 ```
+https://github.com/MKawan/Login-Registered-React-and-Next/assets/51447066/6d9ec07d-973d-4743-961c-7d3cb735cae4
+
+##espero que gostem sintam-se a vontadade para alterar e usaren este projeto.
