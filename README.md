@@ -44,4 +44,4 @@ No codigo abaixo vemos a funcionalidade o typescript em tsx um forma de utilizar
 ```
 https://github.com/MKawan/Login-Registered-React-and-Next/assets/51447066/6d9ec07d-973d-4743-961c-7d3cb735cae4
 
-##espero que gostem sintam-se a vontadade para alterar e usaren este projeto.
+## espero que gostem sintam-se a vontadade para alterar e usaren este projeto.
