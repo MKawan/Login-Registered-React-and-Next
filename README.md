@@ -5,7 +5,8 @@ Sistema de login e registro com React e Next 13
 
 ### Codigo Login:
 
-´´´import { IconKey, IconBrandGoogle, IconUser,IconBrandFacebook } from "@tabler/icons-react";
+´´´typescript
+import { IconKey, IconBrandGoogle, IconUser,IconBrandFacebook } from "@tabler/icons-react";
 import PageRegistered from "../component/routeRegistered";
 
 export default function Login(){
@@ -38,4 +39,5 @@ export default function Login(){
             </div>
         </div>
     )
-}´´´
+}
+´´´
