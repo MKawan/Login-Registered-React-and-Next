@@ -6,12 +6,11 @@ Sistema de login e registro com React e Next 13
 ### Codigo Login:
 
 ´´´typescript
+
 import { IconKey, IconBrandGoogle, IconUser,IconBrandFacebook } from "@tabler/icons-react";
 import PageRegistered from "../component/routeRegistered";
-
-export default function Login(){
-
-    return(
+export default function Login()
+{    return(
         <div>
             <div>
                 <PageRegistered/>
@@ -38,6 +37,5 @@ export default function Login(){
                 </div>  
             </div>
         </div>
-    )
-}
+    )}
 ´´´
