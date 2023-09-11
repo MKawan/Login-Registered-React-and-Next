@@ -1,9 +1,12 @@
 # Login-Registered-React-and-Next
 Sistema de login e registro com React e Next 13
 
-## Projeto desenvolvendo área de login e regigistro utilizando tailwind, Reack e Next. :attention::attention:
+## Projeto desenvolvendo área de login e regigistro utilizando tailwind, Reack e Next. :warning::warning::warning:
+
 ### Adicone a biblioteca tabler, pois nela esta todos os incones utilizado neste projeto.
+
 - npm install @tabler/icons-react
+
 ### Codigo Login:
 
 No codigo abaixo vemos a funcionalidade o typescript em tsx um forma de utilizar as tags do html e css.
