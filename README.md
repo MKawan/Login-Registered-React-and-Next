@@ -1,7 +1,7 @@
 # Login-Registered-React-and-Next
 Sistema de login e registro com React e Next 13
 
-## Projeto desenvolvendo área de login e regigistro utilizando tailwind, Reack e Next. :warning::warning::warning:
+## Projeto desenvolvendo área de login e regigistro utilizando tailwind, React e Next. :warning::warning::warning:
 
 ### Adicone a biblioteca tabler, pois nela esta todos os incones utilizado neste projeto.
 
